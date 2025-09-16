@@ -1,1 +1,1 @@
-# unsupervised-learning-customer-segmentation
+# unsupervised-learning-customer-segmentation WIP
