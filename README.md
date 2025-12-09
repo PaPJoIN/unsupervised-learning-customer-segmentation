@@ -25,7 +25,14 @@ It contained 951,668 rows, each representing a product a customer ordered and co
 * Dimensionality Reduction: PCA, t-SNE
 
 ## 🟩 Results and Findings
-* Identified 6 distics customer segments based on the features used and the patterns that emerged:
+* Identified 6 distics customer segments based on the features used and the patterns that emerged.
+* Insights from clustering were used to:
+> Develop customer personas for targeted marketing.
+> 
+> Create customer profiles for personalised recommendations.
+> 
+> Understand customer loyalty trends and their impact on revenue.
+> 
 * (WIP - to write up)
 
 <img width="673" height="453" alt="image" src="https://github.com/user-attachments/assets/1bfb0d11-5581-4818-b64c-d38e4ed9ef16" />
