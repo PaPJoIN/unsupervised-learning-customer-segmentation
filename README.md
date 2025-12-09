@@ -25,20 +25,9 @@ It contained 951,668 rows, each representing a product a customer ordered and co
 * Dimensionality Reduction: PCA, t-SNE
 
 ## 🟩 Results and Findings
-* Identified 6 distics customer segments based on the features used:
-* When compared based on frequency, recency, CLV, and average unit cost we identified the
-following patterns:
+* Identified 6 distics customer segments based on the features used and the patterns that emerged:
+* (WIP - to write up)
+
+<img width="673" height="453" alt="image" src="https://github.com/user-attachments/assets/1bfb0d11-5581-4818-b64c-d38e4ed9ef16" />
 
 
-- Cluster 1 clearly stands out with the highest frequency and CLV, meaning they're the most
-engaged and valuable customers.
-
-- Cluster 0 has high recency and low frequency/CLV, likely
-recent one-time buyers.
-- Cluster 4 seems to pay the highest average unit cost, possibly
-premium buyers but not necessarily frequent while Age distribution doesn’t differ too much
-across clusters, thus it is not a strong differentiator.
-
-
-Based on these insights, the marketing department can better tailor customer retention
-schemes, marketing efforts and benefit.
