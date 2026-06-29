@@ -1,5 +1,5 @@
 # Customer segmentation using K-Means Clustering
-This project goal was to leverage clustering algorithms to group customers based on their purchasing behaviour and business value, thereby enabling targeted marketing, personalised offers, and improved customer experience.
+This project aimed to leverage clustering algorithms to group customers based on their purchasing behaviour and business value, thereby enabling targeted marketing, personalised offers, and improved customer experience.
 
 ## 🟩 Data
 The data was provided by an E-commerce company with a global customer base spanning across 47 countries and 5 continents.
@@ -25,7 +25,7 @@ It contained 951,668 rows, each representing a product a customer ordered and co
 * Dimensionality Reduction: PCA, t-SNE
 
 ## 🟩 Results and Findings
-* Identified 6 distics customer segments based on the features used and the patterns that emerged.
+* Identified 6 distincs customer segments based on the features used and the patterns that emerged.
 * Insights from clustering were used to:
 > Develop customer personas for targeted marketing.
 >
