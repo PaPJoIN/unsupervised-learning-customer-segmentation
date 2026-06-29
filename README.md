@@ -25,7 +25,7 @@ It contained 951,668 rows, each representing a product a customer ordered and co
 * Dimensionality Reduction: PCA, t-SNE
 
 ## 🟩 Results and Findings
-* Identified 6 distincs customer segments based on the features used and the patterns that emerged.
+* Identified 6 distinct customer segments based on the features used and the patterns that emerged.
 * Insights from clustering were used to:
 > Develop customer personas for targeted marketing.
 >
